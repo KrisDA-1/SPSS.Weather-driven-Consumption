@@ -1,6 +1,6 @@
 # 🗒️ SPSS.Weather-driven-Consumption
 
-Exploring the relationship between weather patterns and energy consumption/production.
+Exploring the relationship between weather patterns and energy consumption/production using SPSS.
 
 ## ✨ Features
 -Dataset and Data Preparation 🆕<br/> 
